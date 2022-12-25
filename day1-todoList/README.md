@@ -1,5 +1,4 @@
-# Vue 3 + TypeScript + Vite
-## Todo List
+# Day1 - Todo List
 
 ## Function
 1. Add todo items with time, date, content
