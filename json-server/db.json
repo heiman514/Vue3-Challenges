@@ -1,0 +1,29 @@
+{
+    "day4": [
+        {
+            "id":1,
+            "title":"Lydia Davis, The Outing",
+            "content":"It’s hard to pick a favorite from Davis’s massive body of work (“Break it Down” and “The Center of the Story” are two more that I love, though they’re a bit long for this list), but on the flip side, pretty much everything she writes is good. I like “The Outing” because it’s the skeleton of a story, poking fun at the notion of “what happens”—and yet still creates a powerful sense of what indeed happened. How does she do it?"
+        },
+        {
+            "id":2,
+            "title":"Deb Olin Unferth, “Likeable”",
+            "content":"When I first heard Deb Olin Unferth read, I was so desperate to write down what she’d said that I scribbled her phrases on my own pants in eyeliner. This piece, originally published in NOON, is one of my favorites of hers, and a very fine commentary on the plight of the “unlikeable” woman."
+        },
+        {
+            "id":3,
+            "title":"George Saunders, “Sticks”",
+            "content":"This story slays me. Saunders builds meaning out of nothing, slowly, it seems—although in a story this short there’s hardly room for slowness—and then rips it all away from you in the end, leaving you gutted and empty, which is just the sort of abject cruelty you really want from a writer."
+        },
+        {
+            "id":4,
+            "title":"Lucy Corin, “Miracles”",
+            "content":"This is my favorite story from Corin’s collection of (mostly) flash fictions, One Hundred Apocalypses and Other Apocalypses. (My second-favorite story, just to be maximalist about it, is “Witches.”) The creepy presence of one mother and absence of another, the glossed-over apocalypse, the temporal swerve—all of these make the story echo for a long time."
+        },
+        {
+            "id":5,
+            "title":"Amelia Gray, “The Swan as Metaphor for Love”",
+            "content":"I’m sorry, but Amelia Gray doesn’t get enough credit for being fucking hilarious. This story makes me laugh every time I read it, and also has taught me several facts about swans."
+        }
+    ]
+}
